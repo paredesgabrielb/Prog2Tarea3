@@ -1,0 +1,116 @@
+Estudio 1
+Muestra 1: 12 ,5.12 ,10.75 ,45.84 ,12.94 ,65.38 ,72.24 ,9.58
+Moda: 
+Media: 29.23125
+Mediana: 12.47
+Varianza: 662.9670859375
+Desviacion Estandar: 25.7287210319032
+
+Muestra 2: 1.64 ,8.58 ,1.08 ,39.38 ,2.4 ,23.54 ,2.48 ,2.87
+Moda: 
+Media: 10.24625
+Mediana: 2.675
+Varianza: 170.3313234375
+Desviacion Estandar: 13.0127369695041
+
+Muestra 3: 59.39 ,63.12 ,5.56 ,1.34 ,5.58 ,87.47 ,5.54
+Moda: 
+Media: 32.5714285714286
+Mediana: 5.58
+Varianza: 1118.65126938776
+Desviacion Estandar: 33.4312917696543
+
+Muestra 4: 23.54 ,2.4 ,1.64 ,72.24 ,39.38 ,8.58 ,1.08 ,39.38 ,5.56 ,1.34
+Moda: 39.38, 39.38
+Media: 19.514
+Mediana: 7.07
+Varianza: 518.229764
+Desviacion Estandar: 22.7426859451561
+
+Estudio 2
+Muestra 1: 12 ,5.12 ,10.75 ,12 ,12.94 ,65.38 ,72.24 ,9.58
+Moda: 12, 12
+Media: 25.00125
+Mediana: 12
+Varianza: 647.7073609375
+Desviacion Estandar: 25.4304416190026
+
+Muestra 2: 1.64 ,8.58 ,1.08 ,39.38 ,2.4 ,23.54 ,2.48 ,2.87
+Moda: 
+Media: 10.24625
+Mediana: 2.675
+Varianza: 170.3313234375
+Desviacion Estandar: 13.0127369695041
+
+Muestra 3: 59.39 ,63.12 ,5.56 ,1.34 ,5.58 ,87.47 ,5.54
+Moda: 
+Media: 32.5714285714286
+Mediana: 5.58
+Varianza: 1118.65126938776
+Desviacion Estandar: 33.4312917696543
+
+Muestra 4: 23.54 ,2.4 ,1.64 ,72.24 ,39.38 ,8.58 ,1.08 ,39.38 ,5.56 ,1.34
+Moda: 39.38, 39.38
+Media: 19.514
+Mediana: 7.07
+Varianza: 518.229764
+Desviacion Estandar: 22.7426859451561
+
+Estudio 3
+Muestra 1: 12 ,5.12 ,10.75 ,45.84 ,12.94 ,65.38 ,72.24 ,9.58
+Moda: 
+Media: 29.23125
+Mediana: 12.47
+Varianza: 662.9670859375
+Desviacion Estandar: 25.7287210319032
+
+Muestra 2: 1.64 ,8.58 ,1.08 ,39.38 ,2.4 ,23.54 ,2.48 ,2.87
+Moda: 
+Media: 10.24625
+Mediana: 2.675
+Varianza: 170.3313234375
+Desviacion Estandar: 13.0127369695041
+
+Muestra 3: 59.39 ,63.12 ,5.56 ,1.34 ,5.58 ,87.47 ,5.54
+Moda: 
+Media: 32.5714285714286
+Mediana: 5.58
+Varianza: 1118.65126938776
+Desviacion Estandar: 33.4312917696543
+
+Muestra 4: 23.54 ,2.4 ,1.64 ,72.24 ,39.38 ,8.58 ,1.08 ,39.38 ,5.56 ,1.34
+Moda: 39.38, 39.38
+Media: 19.514
+Mediana: 7.07
+Varianza: 518.229764
+Desviacion Estandar: 22.7426859451561
+
+Estudio 4
+Muestra 1: 12 ,5.12 ,10.75 ,45.84 ,12.94 ,65.38 ,72.24 ,9.58
+Moda: 
+Media: 29.23125
+Mediana: 12.47
+Varianza: 662.9670859375
+Desviacion Estandar: 25.7287210319032
+
+Muestra 2: 1.64 ,8.58 ,1.08 ,39.38 ,2.4 ,23.54 ,2.48 ,2.87
+Moda: 
+Media: 10.24625
+Mediana: 2.675
+Varianza: 170.3313234375
+Desviacion Estandar: 13.0127369695041
+
+Muestra 3: 59.39 ,63.12 ,5.56 ,1.34 ,5.58 ,87.47 ,5.54
+Moda: 
+Media: 32.5714285714286
+Mediana: 5.58
+Varianza: 1118.65126938776
+Desviacion Estandar: 33.4312917696543
+
+Muestra 4: 23.54 ,2.4 ,1.64 ,72.24 ,39.38 ,8.58 ,1.08 ,39.38 ,5.56 ,1.34
+Moda: 39.38, 39.38
+Media: 19.514
+Mediana: 7.07
+Varianza: 518.229764
+Desviacion Estandar: 22.7426859451561
+

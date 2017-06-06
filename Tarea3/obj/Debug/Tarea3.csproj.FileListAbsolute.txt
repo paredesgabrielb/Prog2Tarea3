@@ -1,0 +1,12 @@
+c:\users\gparedes\documents\visual studio 2015\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+c:\users\gparedes\documents\visual studio 2015\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+c:\users\gparedes\documents\visual studio 2015\Projects\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+c:\users\gparedes\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
+c:\users\gparedes\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+c:\users\gparedes\documents\visual studio 2015\Projects\Tarea3\Tarea3\obj\Debug\Tarea3.pdb
+C:\Users\1072445\Downloads\Prog2Tarea3-master\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\1072445\Downloads\Prog2Tarea3-master\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\1072445\Downloads\Prog2Tarea3-master\Tarea3\obj\Debug\Tarea3.pdb
+C:\Users\1072445\Downloads\Prog2Tarea3-master\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
+C:\Users\1072445\Downloads\Prog2Tarea3-master\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\1072445\Downloads\Prog2Tarea3-master\Tarea3\bin\Debug\Tarea3.pdb
